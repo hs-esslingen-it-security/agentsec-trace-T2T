@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the accompanying publication (preferred-citation) and, where applicable, this repository."
+title: "From Threats to Tools: A Traceable Mapping for Agentic AI Security (Supplementary Artifacts)"
+type: dataset
+version: 1.0.0
+date-released: "2026-11-12"
+authors:
+  - family-names: Meinhardt
+    given-names: Hannah
+    affiliation: "Esslingen University of Applied Sciences"
+    orcid: "https://orcid.org/0009-0004-2686-4680"
+  - family-names: Kaniewski
+    given-names: Sabrina
+    affiliation: "Esslingen University of Applied Sciences"
+    orcid: "https://orcid.org/0009-0004-3966-9681"
+  - family-names: Enzweiler
+    given-names: Markus
+    affiliation: "Esslingen University of Applied Sciences"
+    orcid: "https://orcid.org/0000-0001-9211-9882"
+  - family-names: Heer
+    given-names: Tobias
+    affiliation: "Esslingen University of Applied Sciences"
+    orcid: "https://orcid.org/0000-0003-3119-252X"
+repository-code: "https://github.com/hs-esslingen-it-security/agentsec-trace-T2T"
+license: CC-BY-4.0
+keywords:
+  - agentic AI
+  - AI security
+  - threat taxonomies
+  - security controls
+  - security tool assessment
+  - traceability
+abstract: >-
+  Workbooks for a traceable Threat-to-Control-to-Tool mapping for agentic AI
+  security: published threat-to-control relationships, 72 derived technical
+  requirements, and the documented capabilities of 21 open-source security
+  tools, with architectural-layer classifications and coverage analyses.
+preferred-citation:
+  type: unpublished
+  authors:
+    - family-names: Meinhardt
+      given-names: Hannah
+    - family-names: Kaniewski
+      given-names: Sabrina
+    - family-names: Enzweiler
+      given-names: Markus
+    - family-names: Heer
+      given-names: Tobias
+  title: "From Threats to Tools: A Traceable Mapping for Agentic AI Security"
+  year: 2026
+  notes: "Under review."
