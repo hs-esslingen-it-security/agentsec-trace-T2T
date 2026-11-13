@@ -53,7 +53,7 @@ This repository provides the underlying workbooks to make the mapping and its co
 
 ### 📚 Sources
 
-The mapping builds on the following sources. All source frameworks and tools remain the property of their respective owners and are subject to their own license terms; please consult the originals. Cut-off dates: threat and control sources as published by **July 2026**, tool documentation as available by **June 2026**.
+The mapping builds on the following sources. All source frameworks and tools remain the property of their respective owners and are subject to their own license terms; please consult the originals. Cut-off dates: threat and control sources as published by **July 2026**, tool documentation as published by **August 2026**.
 
 #### Threat sources
 | Source | Link |
